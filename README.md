@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 
 
-| [![](https://github-readme-stats.vercel.app/api?username=houxinlin&hide=contribs&show_icons=true&theme=synthwave)](https://houxinlin.com) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=houxinlin&layout=compact&theme=synthwave)]((https://houxinlin.com) |
+| [![](https://github-readme-stats.vercel.app/api?username=houxinlin&hide=contribs&show_icons=true&theme=synthwave)](https://houxinlin.com) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=houxinlin&layout=compact&theme=synthwave)]((https://houxinlin.com)) |
 | ---- | ---- |
